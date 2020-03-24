@@ -1,11 +1,11 @@
-﻿/**************************************
-* Name: SQL procedure in SAS:		  *
-*		Management of Structured Data *
+﻿/*************************************
+* Name: SQL procedure in SAS:	      *
+*	Management of Structured Data *
 *                                     *
 * Date: February 25, 2019             *
 *                                     *
-* Authors: Marshal Will, 			  *
-*     	   Mikolaj Wieczorek 		  *
+* Author: Mikolaj Wieczorek	      *
+*     	    		  	      *
 **************************************/
 
 /** FOR CSV Files uploaded from Windows **/
